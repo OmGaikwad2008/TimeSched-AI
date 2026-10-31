@@ -1,0 +1,26 @@
+
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Build files
+dist/
+build/
+
+# Editor settings
+.vscode/
+
+# Temporary files
+*.log
